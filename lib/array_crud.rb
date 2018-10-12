@@ -3,7 +3,7 @@ newArray = []
 end
 
 def create_an_array
-  anotherArray = [1, ,2, 3]
+  anotherArray = [1, 2, 3]
 end
 
 def add_element_to_end_of_array(array, element)
